@@ -5,6 +5,7 @@
 -->
 
 - 🧑‍🎓 Graduated as Full-Stack Developer at [Develhope](https://www.develhope.co/?utm_source=cpc&utm_medium=google&utm_campaign=12484029733&utm_content=122479314607&utm_term=develhope&gad_source=1)
+- 🧑🏽‍💻 Proficient in JavaScript, React, HTML & CSS, Node.js
 - 🌱 I’m currently learning tanstack Query/Router (JS libraries), and working on Recipe Roulette (webapp project)
 - 📫 How to reach me: ilyas.macaluso@gmail.com
 
